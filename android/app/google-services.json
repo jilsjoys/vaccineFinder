@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165346679581",
+    "project_id": "vaccinefinder-eecc3",
+    "storage_bucket": "vaccinefinder-eecc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165346679581:android:3dab532d15c976c25c1ff4",
+        "android_client_info": {
+          "package_name": "com.example.vaccinefinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165346679581-cf2s5cu7gcmne7c4o8m7s2v5ii11sev4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS4tlQNDrnktbtt2AgqIfGNZFWlOlM5CI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165346679581-cf2s5cu7gcmne7c4o8m7s2v5ii11sev4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
